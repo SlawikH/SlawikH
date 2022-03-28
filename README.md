@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SlawikH
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning html,css
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me @slawikhavalko
